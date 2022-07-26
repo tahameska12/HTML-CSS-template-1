@@ -1,0 +1,69 @@
+/*******Start Blue Theme*********/
+
+.navbar-inverse .navbar-nav > .active > a {
+  background-color: #b3ff00;
+}
+
+.navbar-inverse .navbar-nav > .active > a:hover {
+  background-color: #b3ff00;
+}
+
+.navbar-brand span {
+  color: #b3ff00;
+}
+
+.dropdown-menu > li > a:hover {
+  background-color: #b3ff00;
+}
+
+.dropdown-menu > li > a {
+  background-color: #222222;
+}
+
+.carousel-indicators .active {
+  background-color: #b3ff00;
+}
+
+.option-box .color-option {
+  border: 2px solid #333;
+}
+
+.option-box .color-option{
+  color: #FFF;
+  background-color: #333;
+}
+
+.option-box .gear-check{
+  color: #FFF;
+  background-color: #333;
+}
+
+.option-box .color-option ul li {
+  background-color: #b3ff00;
+}
+
+.option-box .gear-check {
+  background-color: #b3ff00;
+}
+
+.about h1 span {
+ color: #b3ff00;
+}
+
+.testimonails span {
+  color: #b3ff00;
+}
+
+.testimonails .carousel-indicators li.active {
+  border: 2px solid #b3ff00;
+}
+
+.footer read {
+  color: #b3ff00;
+}
+
+#scroll-top {
+  color: #b3ff00;
+}
+
+/*******End Blue Theme*********/
